@@ -1,1 +1,3 @@
-# 20lik_dis_algilama
+# 20lik_dis_algilama(nasıl çalışır)
+download_data.py kodunu çalıştırıp gerekli verileri, verilerin işaretlemelerini ve data.yaml kaynak dosyasını kurduğu klasörün içine Wisdom-teeth-1 adındaki dosyanın içindeki kodları (train.py ve yirmilik.py) yerleştiriyoruz ve train.py kodunu çalıştırıp modeli eğitiyoruz. Ardından yirmilik.py arayüz ve model işleme kodunu çalıştırıyoruz(local ve public linkler çalıştırdıktan sonra terminalde oluşuyor.).
+ÖNEMLİ NOT!!:  train.py kodunu aktif etmeden önce valid adına bir klasörü data.yaml kaynak dosyasıyla aynı konumda oluşturup yine aynı konumda bulunan train klasöründeki images ve labels klasörlerini KOPYALAYIP valid dosyasına yapıştırıp öyle modeli eğitmemiz gerekiyor yoksa kodumuz eğitilmez.
