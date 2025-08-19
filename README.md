@@ -1,0 +1,1 @@
+# 20lik_dis_algilama
